@@ -2,7 +2,7 @@
 
 **A Linear Programming (LP) approach to selecting the optimal 10-course plan for the Georgia Tech MS in Computer Science**, focusing on two possible specializations (Interactive Intelligence and Computing Systems). This project combines **data gathering**, **operations research**, and **mathematical optimization** to create an end-to-end solution for picking courses that satisfy Georgia Tech’s official requirements while maximizing your personal preferences (ratings, difficulty, workload, etc.).
 
-The goal is to show how **data science can model and solve real-world problems**, driving data-backed decisions. Here, that problem is: *What is the most optimal path of courses I should take?*
+The goal is to show how **data science can model and solve real-world problems**, driving data-backed decisions. In this case, *What is the most optimal path of courses I should take?*
 
 ## Overview
 
