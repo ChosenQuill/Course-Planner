@@ -1,0 +1,731 @@
+[ 
+    {
+        "courseName": "Computer Networks",
+        "codes": "CS-6250",
+        "rating": 3.49,
+        "difficulty": 2.42,
+        "workload": 8.91,
+        "numReviews": 485,
+        "interest": 5
+    },
+    {
+        "courseName": "Introduction to Information Security",
+        "codes": "CS-6035",
+        "rating": 3.44,
+        "difficulty": 2.55,
+        "workload": 10.51,
+        "numReviews": 473,
+        "interest": 5
+    },
+    {
+        "courseName": "Introduction to Graduate Algorithms",
+        "codes": "CS-6515",
+        "rating": 3.3,
+        "difficulty": 4.05,
+        "workload": 19.07,
+        "numReviews": 470,
+        "interest": 5
+    },
+    {
+        "courseName": "Machine Learning",
+        "codes": "CS-7641",
+        "rating": 3.13,
+        "difficulty": 4.13,
+        "workload": 22.39,
+        "numReviews": 464,
+        "interest": 5
+    },
+    {
+        "courseName": "Machine Learning for Trading",
+        "codes": "CS-7646",
+        "rating": 3.93,
+        "difficulty": 2.61,
+        "workload": 11.75,
+        "numReviews": 440,
+        "interest": 5
+    },
+    {
+        "courseName": "Software Development Process",
+        "codes": "CS-6300",
+        "rating": 3.58,
+        "difficulty": 2.32,
+        "workload": 9.07,
+        "numReviews": 358,
+        "interest": 5
+    },
+    {
+        "courseName": "Graduate Introduction to Operating Systems",
+        "codes": "CS-6200",
+        "rating": 4.36,
+        "difficulty": 3.69,
+        "workload": 18.47,
+        "numReviews": 354,
+        "interest": 5
+    },
+    {
+        "courseName": "Knowledge-Based AI",
+        "codes": "CS-7637",
+        "rating": 3.53,
+        "difficulty": 3.07,
+        "workload": 14.19,
+        "numReviews": 348,
+        "interest": 5
+    },
+    {
+        "courseName": "Artificial Intelligence Techniques for Robotics",
+        "codes": "CS-7638",
+        "rating": 3.94,
+        "difficulty": 3.01,
+        "workload": 13,
+        "numReviews": 315,
+        "interest": 5
+    },
+    {
+        "courseName": "Artificial Intelligence",
+        "codes": "CS-6601",
+        "rating": 4.06,
+        "difficulty": 4.07,
+        "workload": 22.64,
+        "numReviews": 295,
+        "interest": 5
+    },
+    {
+        "courseName": "Data and Visual Analytics",
+        "codes": "CSE-6242",
+        "rating": 2.91,
+        "difficulty": 3.23,
+        "workload": 15.97,
+        "numReviews": 291,
+        "interest": 5
+    },
+    {
+        "courseName": "Database Systems Concepts and Design",
+        "codes": "CS-6400",
+        "rating": 2.58,
+        "difficulty": 2.87,
+        "workload": 11.3,
+        "numReviews": 270,
+        "interest": 5
+    },
+    {
+        "courseName": "Human-Computer Interaction",
+        "codes": "CS-6750",
+        "rating": 4.04,
+        "difficulty": 2.55,
+        "workload": 12.16,
+        "numReviews": 269,
+        "interest": 5
+    },
+    {
+        "courseName": "Software Architecture and Design",
+        "codes": "CS-6310",
+        "rating": 2.95,
+        "difficulty": 2.61,
+        "workload": 11.87,
+        "numReviews": 218,
+        "interest": 5
+    },
+    {
+        "courseName": "Reinforcement Learning and Decision Making",
+        "codes": "CS-7642",
+        "rating": 3.92,
+        "difficulty": 4.18,
+        "workload": 22.4,
+        "numReviews": 214,
+        "interest": 5
+    },
+    {
+        "courseName": "Introduction to Computer Vision",
+        "codes": "CS-6476",
+        "rating": 3.74,
+        "difficulty": 4.08,
+        "workload": 21.85,
+        "numReviews": 207,
+        "interest": 5
+    },
+    {
+        "courseName": "Computational Photography",
+        "codes": "CS-6475",
+        "rating": 3.56,
+        "difficulty": 3.24,
+        "workload": 16.95,
+        "numReviews": 188,
+        "interest": 5
+    },
+    {
+        "courseName": "Introduction to Analytics Modeling",
+        "codes": "ISYE-6501",
+        "rating": 4.13,
+        "difficulty": 2.83,
+        "workload": 10.01,
+        "numReviews": 172,
+        "interest": 5
+    },
+    {
+        "courseName": "Advanced Topics in Software Analysis and Testing",
+        "codes": "CS-6340",
+        "rating": 3.56,
+        "difficulty": 3.21,
+        "workload": 12.72,
+        "numReviews": 158,
+        "interest": 5
+    },
+    {
+        "courseName": "Network Security",
+        "codes": "CS-6262",
+        "rating": 3.19,
+        "difficulty": 3,
+        "workload": 12.71,
+        "numReviews": 137,
+        "interest": 5
+    },
+    {
+        "courseName": "Advanced Operating Systems",
+        "codes": "CS-6210",
+        "rating": 4.02,
+        "difficulty": 4.15,
+        "workload": 17.18,
+        "numReviews": 135,
+        "interest": 5
+    },
+    {
+        "courseName": "High-Performance Computer Architecture",
+        "codes": "CS-6290",
+        "rating": 3.82,
+        "difficulty": 3.64,
+        "workload": 15.4,
+        "numReviews": 135,
+        "interest": 5
+    },
+    {
+        "courseName": "Computing for Data Analysis: Methods and Tools",
+        "codes": "CSE-6040",
+        "rating": 4.31,
+        "difficulty": 3.14,
+        "workload": 10.15,
+        "numReviews": 125,
+        "interest": 5
+    },
+    {
+        "courseName": "Data Analytics in Business",
+        "codes": "MGT-6203",
+        "rating": 2.25,
+        "difficulty": 1.93,
+        "workload": 5.74,
+        "numReviews": 123,
+        "interest": 5
+    },
+    {
+        "courseName": "Simulation",
+        "codes": "ISYE-6644",
+        "rating": 4.31,
+        "difficulty": 3.32,
+        "workload": 11.41,
+        "numReviews": 119,
+        "interest": 5
+    },
+    {
+        "courseName": "Introduction to Health Informatics",
+        "codes": "CS-6440",
+        "rating": 2.7,
+        "difficulty": 2.3,
+        "workload": 10.15,
+        "numReviews": 113,
+        "interest": 5
+    },
+    {
+        "courseName": "AI, Ethics, and Society",
+        "codes": "CS-6603",
+        "rating": 2.6,
+        "difficulty": 1.57,
+        "workload": 6.54,
+        "numReviews": 113,
+        "interest": 5
+    },
+    {
+        "courseName": "Statistical Modeling and Regression Analysis",
+        "codes": "ISYE-6414",
+        "rating": 3.06,
+        "difficulty": 2.87,
+        "workload": 9.16,
+        "numReviews": 112,
+        "interest": 5
+    },
+    {
+        "courseName": "Educational Technology: Conceptual Foundations",
+        "codes": "CS-6460",
+        "rating": 4.03,
+        "difficulty": 2.84,
+        "workload": 14.42,
+        "numReviews": 104,
+        "interest": 4
+    },
+    {
+        "courseName": "Deep Learning",
+        "codes": "CS-7643",
+        "rating": 4,
+        "difficulty": 4.01,
+        "workload": 19.19,
+        "numReviews": 100,
+        "interest": 5
+    },
+    {
+        "courseName": "High Performance Computing",
+        "codes": "CSE-6220",
+        "rating": 4.15,
+        "difficulty": 4.3,
+        "workload": 20.96,
+        "numReviews": 96,
+        "interest": 5
+    },
+    {
+        "courseName": "Special Topics: Business Fundamentals for Analytics",
+        "codes": "MGT-8803",
+        "rating": 2.43,
+        "difficulty": 2.94,
+        "workload": 7.91,
+        "numReviews": 96,
+        "interest": 5
+    },
+    {
+        "courseName": "Introduction to Theory and Practice of Bayesian Statistics",
+        "codes": "ISYE-6420",
+        "rating": 2.84,
+        "difficulty": 3.32,
+        "workload": 12.88,
+        "numReviews": 82,
+        "interest": 5
+    },
+    {
+        "courseName": "Introduction to Cyber-Physical Systems Security",
+        "codes": "CS-6263\nECE-8813",
+        "rating": 3.31,
+        "difficulty": 2.64,
+        "workload": 10.45,
+        "numReviews": 80,
+        "interest": 5
+    },
+    {
+        "courseName": "Big Data Analytics for Healthcare",
+        "codes": "CSE-6250",
+        "rating": 3.75,
+        "difficulty": 4.21,
+        "workload": 28.03,
+        "numReviews": 78,
+        "interest": 5
+    },
+    {
+        "courseName": "Network Science: Methods and Applications",
+        "codes": "CS-7280",
+        "rating": 3.18,
+        "difficulty": 2.96,
+        "workload": 13.09,
+        "numReviews": 56,
+        "interest": 5
+    },
+    {
+        "courseName": "Deterministic Optimization",
+        "codes": "ISYE-6669",
+        "rating": 3.73,
+        "difficulty": 3.85,
+        "workload": 13.17,
+        "numReviews": 52,
+        "interest": 5
+    },
+    {
+        "courseName": "Applied Cryptography",
+        "codes": "CS-6260",
+        "rating": 3.31,
+        "difficulty": 3.73,
+        "workload": 16.55,
+        "numReviews": 49,
+        "interest": 5
+    },
+    {
+        "courseName": "Embedded Systems Optimization",
+        "codes": "CS-6291",
+        "rating": 3.57,
+        "difficulty": 3.56,
+        "workload": 15.71,
+        "numReviews": 48,
+        "interest": 5
+    },
+    {
+        "courseName": "Computational Data Analysis: Learning, Mining, and Computation",
+        "codes": "ISYE-6740",
+        "rating": 4.11,
+        "difficulty": 3.57,
+        "workload": 14.11,
+        "numReviews": 47,
+        "interest": 5
+    },
+    {
+        "courseName": "Distributed Computing",
+        "codes": "CS-7210",
+        "rating": 3.28,
+        "difficulty": 4.65,
+        "workload": 50.41,
+        "numReviews": 46,
+        "interest": 5
+    },
+    {
+        "courseName": "Game Artificial Intelligence",
+        "codes": "CS-7632",
+        "rating": 4.09,
+        "difficulty": 2.86,
+        "workload": 11.77,
+        "numReviews": 44,
+        "interest": 5
+    },
+    {
+        "courseName": "Digital Marketing",
+        "codes": "MGT-6311",
+        "rating": 4.02,
+        "difficulty": 1.27,
+        "workload": 3.34,
+        "numReviews": 41,
+        "interest": 5
+    },
+    {
+        "courseName": "Special Topics: High-Dimensional Data Analytics",
+        "codes": "ISYE-8803",
+        "rating": 4.26,
+        "difficulty": 4.13,
+        "workload": 18.15,
+        "numReviews": 39,
+        "interest": 5
+    },
+    {
+        "courseName": "Secure Computer Systems",
+        "codes": "CS-6238",
+        "rating": 2.97,
+        "difficulty": 3.55,
+        "workload": 15.47,
+        "numReviews": 38,
+        "interest": 5
+    },
+    {
+        "courseName": "Time Series Analysis",
+        "codes": "ISYE-6402",
+        "rating": 2.13,
+        "difficulty": 4.13,
+        "workload": 15.29,
+        "numReviews": 38,
+        "interest": 5
+    },
+    {
+        "courseName": "Cyber Physical Design and Analysis",
+        "codes": "CS-7639\nECE-8823",
+        "rating": 2.86,
+        "difficulty": 3.11,
+        "workload": 11.7,
+        "numReviews": 37,
+        "interest": 5
+    },
+    {
+        "courseName": "Data Analytics and Security",
+        "codes": "INTA-6450",
+        "rating": 2.46,
+        "difficulty": 1.63,
+        "workload": 5,
+        "numReviews": 35,
+        "interest": 5
+    },
+    {
+        "courseName": "Special Topics: Financial Modeling",
+        "codes": "MGT-8813",
+        "rating": 2.76,
+        "difficulty": 1.61,
+        "workload": 4.55,
+        "numReviews": 33,
+        "interest": 5
+    },
+    {
+        "courseName": "Video Game Design and Programming",
+        "codes": "CS-6457",
+        "rating": 4.22,
+        "difficulty": 2.28,
+        "workload": 12.94,
+        "numReviews": 32,
+        "interest": 5
+    },
+    {
+        "courseName": "Information Security Lab: Binary Exploitation",
+        "codes": "CS-6265",
+        "rating": 4.61,
+        "difficulty": 4.22,
+        "workload": 28.57,
+        "numReviews": 23,
+        "interest": 5
+    },
+    {
+        "courseName": "Special Topics: Compilers - Theory and Practice",
+        "codes": "CS-8803-O08",
+        "rating": 4.13,
+        "difficulty": 4.65,
+        "workload": 28.78,
+        "numReviews": 23,
+        "interest": 5
+    },
+    {
+        "courseName": "Special Topics: Quantum Computing",
+        "codes": "CS-8803-O13",
+        "rating": 3.64,
+        "difficulty": 3.41,
+        "workload": 12.41,
+        "numReviews": 22,
+        "interest": 5
+    },
+    {
+        "courseName": "Information Security Policies and Strategies",
+        "codes": "PUBP-6725",
+        "rating": 3,
+        "difficulty": 1.91,
+        "workload": 6.41,
+        "numReviews": 22,
+        "interest": 5
+    },
+    {
+        "courseName": "Mobile and Ubiquitous Computing",
+        "codes": "CS-7470",
+        "rating": 2,
+        "difficulty": 2.3,
+        "workload": 13,
+        "numReviews": 20,
+        "interest": 5
+    },
+    {
+        "courseName": "Data Mining and Statistical Learning",
+        "codes": "ISYE-7406",
+        "rating": 3.6,
+        "difficulty": 2.35,
+        "workload": 14.6,
+        "numReviews": 20,
+        "interest": 5
+    },
+    {
+        "courseName": "Advanced Topics in Malware Analysis",
+        "codes": "CS-6747\nECE-6747",
+        "rating": 4.38,
+        "difficulty": 3.38,
+        "workload": 14.63,
+        "numReviews": 16,
+        "interest": 5
+    },
+    {
+        "courseName": "Special Topics: Systems Design for Cloud Computing",
+        "codes": "CS-6211",
+        "rating": 4.63,
+        "difficulty": 4.56,
+        "workload": 28.25,
+        "numReviews": 16,
+        "interest": 7
+    },
+    {
+        "courseName": "Special Topics: Data Analysis for Continuous Improvement",
+        "codes": "MGT-8823",
+        "rating": 3.63,
+        "difficulty": 1.5,
+        "workload": 4.69,
+        "numReviews": 16,
+        "interest": 5
+    },
+    {
+        "courseName": "Privacy for Professionals",
+        "codes": "MGT-6727",
+        "rating": 3.93,
+        "difficulty": 2.13,
+        "workload": 3.73,
+        "numReviews": 15,
+        "interest": 5
+    },
+    {
+        "courseName": "Natural Language Processing",
+        "codes": "CS-7650",
+        "rating": 4.29,
+        "difficulty": 2.64,
+        "workload": 11.43,
+        "numReviews": 14,
+        "interest": 5
+    },
+    {
+        "courseName": "Introduction to Cognitive Science",
+        "codes": "CS-6795",
+        "rating": 4.07,
+        "difficulty": 2.07,
+        "workload": 9.5,
+        "numReviews": 14,
+        "interest": 5
+    },
+    {
+        "courseName": "Advanced Internet Computing Systems and Applications",
+        "codes": "CS-6675",
+        "rating": 3.23,
+        "difficulty": 2.77,
+        "workload": 12.62,
+        "numReviews": 13,
+        "interest": 5
+    },
+    {
+        "courseName": "Probabilistic Models and Their Applications",
+        "codes": "ISYE-6650",
+        "rating": 3.18,
+        "difficulty": 4.09,
+        "workload": 12.36,
+        "numReviews": 11,
+        "interest": 5
+    },
+    {
+        "courseName": "Special Topics: Introduction to Computer Law",
+        "codes": "CS-8803-O15",
+        "rating": 4.6,
+        "difficulty": 2.1,
+        "workload": 4.2,
+        "numReviews": 10,
+        "interest": 5
+    },
+    {
+        "courseName": "Security Incident Response",
+        "codes": "CS-6261",
+        "rating": 3.8,
+        "difficulty": 2,
+        "workload": 5.9,
+        "numReviews": 10,
+        "interest": 5
+    },
+    {
+        "courseName": "Special Topics: Global Entrepreneurship",
+        "codes": "CS-8803-O17",
+        "rating": 3.22,
+        "difficulty": 2.44,
+        "workload": 5.67,
+        "numReviews": 9,
+        "interest": 5
+    },
+    {
+        "courseName": "Modeling, Simulation and Military Gaming",
+        "codes": "CSE-6742\nINTA-6742",
+        "rating": 4,
+        "difficulty": 1.67,
+        "workload": 5.22,
+        "numReviews": 9,
+        "interest": 5
+    },
+    {
+        "courseName": "International Security",
+        "codes": "INTA-6103",
+        "rating": 3.33,
+        "difficulty": 2.44,
+        "workload": 5.56,
+        "numReviews": 9,
+        "interest": 5
+    },
+    {
+        "courseName": "Applied Analytics Practicum",
+        "codes": "MGT-6748\nCSE-6748\nISYE-6748",
+        "rating": 3.78,
+        "difficulty": 2,
+        "workload": 12.56,
+        "numReviews": 9,
+        "interest": 5
+    },
+    {
+        "courseName": "Information Policy and Management",
+        "codes": "PUBP-6501",
+        "rating": 2.67,
+        "difficulty": 2.78,
+        "workload": 10,
+        "numReviews": 9,
+        "interest": 5
+    },
+    {
+        "courseName": "Special Topics: Applied Natural Language Processing",
+        "codes": "CSE-8803-OAN",
+        "rating": 3.86,
+        "difficulty": 2.86,
+        "workload": 12.14,
+        "numReviews": 7,
+        "interest": 5
+    },
+    {
+        "courseName": "Information Security Lab: System and Network Defenses",
+        "codes": "CS-6264",
+        "rating": 3.29,
+        "difficulty": 3.71,
+        "workload": 20,
+        "numReviews": 7,
+        "interest": 5
+    },
+    {
+        "courseName": "Information and Communications Technology Policy",
+        "codes": "PUBP-6502",
+        "rating": 4.5,
+        "difficulty": 1.25,
+        "workload": 2.25,
+        "numReviews": 4,
+        "interest": 5
+    },
+    {
+        "courseName": "Internet and Public Policy",
+        "codes": "PUBP-6111",
+        "rating": 4.33,
+        "difficulty": 1,
+        "workload": 3,
+        "numReviews": 3,
+        "interest": 5
+    },
+    {
+        "courseName": "Special Topics: Geopolitics of Cybersecurity",
+        "codes": "PUBP-8823",
+        "rating": 3,
+        "difficulty": 2,
+        "workload": 23,
+        "numReviews": 2,
+        "interest": 5
+    },
+    {
+        "courseName": "Computing for Good",
+        "codes": "CS-6150",
+        "rating": 2.5,
+        "difficulty": 2,
+        "workload": 8.5,
+        "numReviews": 2,
+        "interest": 5
+    },
+    {
+        "courseName": "Side Channels and their Role in Cybersecurity",
+        "codes": "ECE-8843",
+        "rating": 4,
+        "difficulty": 3,
+        "workload": 9,
+        "numReviews": 2,
+        "interest": 5
+    },
+    {
+        "courseName": "Computational Journalism",
+        "codes": "CS-6465",
+        "rating": 4,
+        "difficulty": 3,
+        "workload": 15,
+        "numReviews": 1,
+        "interest": 5
+    },
+    {
+        "courseName": "Introduction to Cyber-Physical Electric Energy Systems",
+        "codes": "ECE-8803",
+        "rating": 2,
+        "difficulty": 4,
+        "workload": 15,
+        "numReviews": 1,
+        "interest": 5
+    },
+    {
+        "courseName": "Computational Statistics",
+        "codes": "ISYE-6416",
+        "rating": 3,
+        "difficulty": 3,
+        "workload": 12,
+        "numReviews": 1,
+        "interest": 5
+    }
+]
