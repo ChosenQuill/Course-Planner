@@ -19,7 +19,7 @@ def load_json(fname):
     with open(fname) as f:
         return json.load(f)
 
-courses_data = load_json("src/courses.json")
+courses_data = load_json("src/ratings.json")
 
 # ============================
 # BUILDING THE LP MODEL
